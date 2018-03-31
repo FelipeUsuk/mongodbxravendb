@@ -1,0 +1,11 @@
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\bin\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.deps.json
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\bin\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.runtimeconfig.json
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\bin\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.runtimeconfig.dev.json
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\bin\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.dll
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\obj\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.csprojResolveAssemblyReference.cache
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\obj\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.csproj.CoreCompileInputs.cache
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\obj\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.AssemblyInfoInputs.cache
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\obj\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.AssemblyInfo.cs
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\bin\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.pdb
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\obj\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.dll
+c:\projetos\fiap\BenchMarkRavenAtMongo\BenchMarkRavenAtMongo\obj\Debug\netcoreapp2.0\BenchMarkRavenAtMongo.pdb
